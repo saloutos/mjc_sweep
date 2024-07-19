@@ -1,0 +1,10 @@
+*.pyc
+
+logs/
+*.log
+
+MUJOCO_LOG.TXT
+
+.vscode/
+.DS_Store
+__pycache__/
